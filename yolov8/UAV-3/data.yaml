@@ -1,0 +1,12 @@
+names:
+- UAV
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: uav-swtpi
+  url: https://universe.roboflow.com/uav-3rzfc/uav-swtpi/dataset/3
+  version: 3
+  workspace: uav-3rzfc
+test: /content/drive/MyDrive/yolov8/UAV-3/test/images
+train: /content/drive/MyDrive/yolov8/UAV-3/train/images
+val: /content/drive/MyDrive/yolov8/UAV-3/valid/images
